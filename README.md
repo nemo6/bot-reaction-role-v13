@@ -1,2 +1,3 @@
 # bot-reaction-role-v13
-test
+  
+  npm i discord.js dayjs
